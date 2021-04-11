@@ -345,3 +345,148 @@ div.footer h6 {
     font-size: 1rem;
     padding-top: 6rem;
 }
+
+/* Media Queries */
+@media screen and (max-width: 500px)
+{
+   div.snapshot-box-content {display: block;
+    justify-content: space-between;}
+
+    ul.nav-links {
+        display: block;
+        margin-left: -90px;
+        padding: 0px;
+    }
+    div.nav-bar {
+        display: block;
+    }
+
+    div.hero-background-pos {
+        position: static;
+        }
+
+    
+element.style {
+}
+div.hero-content-heading h3 {
+
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;}
+
+    div.hero-content-heading p {
+        font-size: 0.8rem;
+        font-style: italic;}
+
+        div.background p {
+            
+            padding-left: 0rem;
+    
+            letter-spacing: 0.5px;}
+
+        }
+        div.logo {
+            padding-bottom: 20px;
+            text-align: center;
+        }
+        div.background h4 {
+            padding-bottom: 0.3rem;
+            
+        }
+    
+    }
+
+@media screen and (max-width: 770px)
+{
+   div.snapshot-box-content {
+    display: block;
+    justify-content: space-between;}
+
+    ul.nav-links {
+        display: block;
+        
+    }
+
+    div.nav-bar {
+        display: block;
+        
+    }
+
+    div.box1 {
+        
+        width: 120%;
+        height: 120%;}
+
+        div.box3 {
+            
+            width: 120%;
+            height: 120%;
+            
+    }
+
+    div.logo {
+        
+    }
+    
+    div.background {
+       
+        height: 250px;
+        
+    }
+    
+   
+    
+    
+    div.footer-content p {
+       
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    
+    
+    element.style {
+    }
+    div.gallery-content p {
+      
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    
+    div.snapshot-team p {
+        
+        padding-left: 6rem;
+        padding-right: 6rem;
+     
+    
+    
+    div.nav-bar {
+        display: ; 
+       
+    }
+    
+    ul.nav-links {
+        display: block;
+ 
+    }
+
+    div.hero-background-pos {
+        width: 0px;
+        height: 0px;
+
+        position: relative;
+        left: 20px;
+
+}
+
+
+    }
+
+@media screen and (min-width: 600px) {
+    div.hero-content-heading p {
+       
+        font-size: 1.2rem;}
+
+       
+   
+}
